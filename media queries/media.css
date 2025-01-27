@@ -1,0 +1,22 @@
+h1 {
+    background-color: yellow;
+    border: 2px solid black;
+}
+@media (width:400px) {
+    h1 {
+        background-color: red;
+        color: wheat;
+    }
+    div {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+
+    }
+}
+@media ( orientation:landscape) {
+    h1 {
+        background-color: brown;
+        /* when we rotate */
+    }
+}

@@ -1,0 +1,21 @@
+* {
+    text-align: center ;
+}
+
+#maintopic {
+    color: blue ;
+}
+h1 ,h3 ,h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.content {
+    background-color: cornflowerblue;
+}
+div button{
+    background-color: purple;
+    color: azure;
+}
+button:hover {
+    background-color: rgb(229, 255, 32);
+    color: white;
+}

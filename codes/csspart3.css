@@ -1,0 +1,55 @@
+/* div{
+   margin:10px 20px 30px 40px;
+    height: 200px;
+    width: 500px;
+    background-color: pink;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+     /* border-left-style: dotted;
+     border-left-color: red; */
+    
+    /* border-left: 5px dashed #ff0707; */
+    /* border-radius: 10px;
+    padding: 10px;
+     /* */ 
+/* }
+h1 { */
+    /* border-width: 5px;
+    border-style: groove; */
+    /* border: 5px solid black; */
+    /* margin: 0;
+} */
+/* button{
+    border: 2px solid black;
+   padding: 20px;
+    background-color: yellow;
+/* }
+
+
+
+/* practice que  */
+
+#outer{
+    height: 200px;
+    width: 70px;
+    border:2px solid black;
+}
+.inner{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+ 
+
